@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shamo418
-- 🌱 I’m currently learning python
+- 🌱 I’m python programmer
 
 
 <!---
